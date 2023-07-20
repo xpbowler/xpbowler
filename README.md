@@ -7,6 +7,7 @@ I'm currently a Software Engineering student at the University of Waterloo part 
 ### Contact me
 
 📫 My personal email is [rnquan30@gmail.com](mailto:rnquan30@gmail.com), if you have any questions feel free to send me a note!
+
 📫 University email: [ryan.nguyen@uwaterloo.ca](mailto:ryan.nguyen@uwaterloo.ca)
 
 For up-to-date information on experiences and internships, check out my [LinkedIn](https://www.linkedin.com/in/aaron-m-becker/).
