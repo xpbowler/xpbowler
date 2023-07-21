@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Ryan,
 
-I enjoy taking on solo and team projects spanning different disciplines of engineering, from rocketry to WebDev.
+I enjoy taking on solo and team projects spanning different disciplines of engineering, from model rocketry to webdev.
 
 I'm currently a Software Engineering student at the University of Waterloo part of the class of 2028.
 
