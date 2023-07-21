@@ -10,4 +10,4 @@ I'm currently a Software Engineering student at the University of Waterloo part 
 
 University email: [ryan.nguyen@uwaterloo.ca](mailto:ryan.nguyen@uwaterloo.ca)
 
-For up-to-date information on experiences and internships, check out my [LinkedIn](https://www.linkedin.com/in/aaron-m-becker/).
+For up-to-date information on experiences and jobs, check out my [LinkedIn](https://www.linkedin.com/in/aaron-m-becker/).
