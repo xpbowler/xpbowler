@@ -2,7 +2,7 @@
 
 I enjoy taking on solo and team projects spanning different disciplines of engineering, from model rocketry to webdev.
 
-I'm currently a Software Engineering student at the University of Waterloo part of the class of 2028.
+I'm currently a Software Engineering student at the University of Waterloo as part of the Class of 2028.
 
 ### Contact me
 
