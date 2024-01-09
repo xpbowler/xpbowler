@@ -3,7 +3,7 @@ I enjoy working on ML applications, games, web-dev projects, and exploring new a
 
 I'm currently a Software Engineering student at the University of Waterloo (2028). 
 
-Avid mechanical-keyboard hobbyist ⌨️, and (retired) competitive swimmer 🏊. I also love to rock-climb in my spare time. 
+Avid mechanical-keyboard hobbyist ⌨️, and swimmer 🏊. I also love to rock-climb in my spare time. 
 
 ## 🖥️ I'm currently working on 
 
