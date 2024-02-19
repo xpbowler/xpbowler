@@ -3,7 +3,7 @@ I enjoy working on ML applications, web-dev projects, and exploring new advances
 
 Incoming Rust SWE intern @ Huawei (Cloud, Data Centers) 
 
-Software Engineering @ UWaterloo (2028), avid mechanical-keyboard hobbyist ⌨️, and swimmer 🏊. I like rock-climbing in my spare time. 
+Software Engineering @ UWaterloo (class of 2028), avid mechanical-keyboard hobbyist ⌨️, and swimmer 🏊. I like rock-climbing in my spare time. 
 
 ## 🖥️ I'm currently working on 
 
