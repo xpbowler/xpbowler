@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm Ryan,
 I enjoy working on ML applications, web-dev projects, and exploring new advances in LLMs. 
 
-Incoming Rust SWE intern @ Huawei (Cloud, Data Centers) 
+Incoming Rust SWE intern @ Huawei (Distributed Scheduling, Severless WASM) 
 
 Software Engineering @ UWaterloo (class of 2028), avid mechanical-keyboard hobbyist ⌨️, and swimmer 🏊. I like rock-climbing in my spare time. 
 
@@ -9,7 +9,7 @@ Software Engineering @ UWaterloo (class of 2028), avid mechanical-keyboard hobby
 
 SemanticOS, a lightweight desktop application, built in Rust and packaged by Tauri, for fast semantic file searching. 
 
-I've also recently trained a small-scale transformer model on Shakespeare, implementing self-attention with a bigram language model. Currently curious as to whether the idea of using random graphs to form DNN connections can also be applied to transformer architectures. 
+I've also recently trained a small-scale transformer model on Shakespeare, implementing self-attention with a bigram language model. Currently curious as to whether the idea of using random graphs to form DNN connections can be applied to transformer architectures. 
 
 
 ## Contact me
