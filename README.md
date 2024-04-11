@@ -1,15 +1,15 @@
 ## Hi! 👋 I'm Ryan,
-I enjoy working on ML applications, web-dev projects, and exploring new advances in LLMs. 
+`Software Engineering @ UWaterloo` (class of 2028).
 
-Incoming Rust SWE intern @ Huawei (Distributed Scheduling, Severless WASM) 
+Incoming `Rust SWE intern @ Huawei` (Distributed Scheduling, Severless WASM)
 
-Software Engineering @ UWaterloo (class of 2028), avid mechanical-keyboard hobbyist ⌨️, and swimmer 🏊. I like rock-climbing in my spare time. 
+I enjoy rock-climbing in my spare time (`stereotypical ik`) and used to ski a lot! 
 
-## 🖥️ I'm currently working on 
+## 🖥️  I'm currently working on 
 
-SemanticOS, a lightweight desktop application, built in Rust and packaged by Tauri, for fast semantic file searching. 
+[`llama-index`](https://github.com/run-llama/llama_index): developed the [`rankLLM rerank`](https://pypi.org/project/llama-index-postprocessor-rankllm-rerank/) package, working on the `QueryPipeline` feature 
 
-I've also recently trained a small-scale transformer model on Shakespeare, implementing self-attention with a bigram language model. Currently curious as to whether the idea of using random graphs to form DNN connections can be applied to transformer architectures. 
+`SemanticOS`, a lightweight desktop application, built in Rust and packaged by Tauri, for `fast semantic file searching`. 
 
 
 ## Contact me
