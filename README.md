@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm Ryan,
 `Software Engineering @ UWaterloo` (class of 2028).
 
-Incoming `Rust SWE intern @ Huawei` (Distributed Scheduling, Severless WASM)
+`Rust SWE intern @ Huawei` (Distributed Scheduling, Severless WASM)
 
 I enjoy rock-climbing in my spare time (`stereotypical ik`) and used to ski a lot! 
 
