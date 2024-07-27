@@ -1,8 +1,9 @@
 **Software Engineering @ UWaterloo** (class of 2028).
 
 **Rust SWE intern @ Huawei** (Severless WASM Engine)
-- Reducing *busy-waiting* during WASM `I/O` operations using a CFS based CPU scheduler
-- Optimizing the JS interpreter `event loop`, implemented in `Rust` and compiled down to WASM  
+- *CPU limiting* of thread-level WASM sandboxes using native **OS threads** and **cgroups v2**. Existing implementation has large overhead, using green threads with 2 layers of CPU schedulers :(
+- Monitoring sandbox network usage with `eBPF` kernel programming
+- Reducing *busy-waiting* during WASM `I/O` operations using epoch counting
 
 ### I'm currently working on 
 
