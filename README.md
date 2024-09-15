@@ -1,5 +1,3 @@
-### **Software Engineering @ UWaterloo**
-
 ### I'm currently working on 
 
 Information Retrieval @ [**Castorini**](https://github.com/castorini), under Dr. Jimmy Lin
