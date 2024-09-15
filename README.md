@@ -1,19 +1,27 @@
-**Software Engineering @ UWaterloo** (class of 2028).
-
-**Rust SWE intern @ Huawei** (Severless WASM Engine)
-- *CPU limiting* of thread-level WASM sandboxes using native **OS threads** and **cgroups v2**. Existing implementation has large overhead, using green threads with 2 layers of CPU schedulers :(
-- Monitoring sandbox network usage with `eBPF` kernel programming
-- Reducing *busy-waiting* during WASM `I/O` operations using epoch counting
+## **Software Engineering @ UWaterloo** (class of 2028)
 
 ### I'm currently working on 
 
-`Information Retrieval` @ [**Castorini**](https://github.com/castorini), under [Dr. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/)
+Information Retrieval @ [**Castorini**](https://github.com/castorini), under Dr. Jimmy Lin
+-  [`rank_llm`](https://github.com/castorini/rank_llm) reranking LLM framework
 -  [`ragnarok`](https://github.com/castorini/ragnarok) RAG framework, http://arxiv.org/abs/2406.16828
--  [`rank_llm`](https://github.com/castorini/rank_llm) reranking LLMs
 
-[`llama-index`](https://github.com/run-llama/llama_index): developed the [`rankLLM rerank`](https://pypi.org/project/llama-index-postprocessor-rankllm-rerank/) package, working on the `QueryPipeline` feature 
+Open source @ [`llama-index`](https://github.com/run-llama/llama_index)
+- Working on asynchronous chat feature
+- Maintainer for [`rank-llm`](https://pypi.org/project/llama-index-postprocessor-rankllm-rerank/) reranking package 
 
-I enjoy rock-climbing in my spare time (*stereotypical ik*)
+<br>
+
+### Recently ...
+**Rust SWE intern @ Huawei** (Severless WASM Engine)
+- *CPU limiting* of thread-level WASM sandboxes using **cgroups v2**. Existing implementation had large overhead, using green threads with 2 layers of CPU schedulers.
+- Sandbox network monitoring with `eBPF` kernel programming
+
+
+<br>
+<br>
+I enjoy rock-climbing in my spare time (stereotypical haha) and playing switch games.
+
 
 ## Contact me
 
