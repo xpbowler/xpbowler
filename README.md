@@ -1,4 +1,4 @@
-## **Software Engineering @ UWaterloo** (class of 2028)
+## **Software Engineering @ UWaterloo**
 
 ### I'm currently working on 
 
