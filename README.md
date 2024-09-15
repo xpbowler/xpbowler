@@ -1,4 +1,4 @@
-## **Software Engineering @ UWaterloo**
+### **Software Engineering @ UWaterloo**
 
 ### I'm currently working on 
 
