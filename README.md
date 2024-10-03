@@ -12,7 +12,7 @@ Open source @ [`llama-index`](https://github.com/run-llama/llama_index)
 
 ### Recently ...
 **Rust SWE intern @ Huawei** (Severless WASM Engine)
-- *CPU limiting* of thread-level WASM sandboxes using **cgroups v2**. Existing implementation had large overhead, using green threads with 2 layers of CPU schedulers.
+- *CPU limiting* of thread-level WASM sandboxes using **cgroups v2**.
 - Sandbox network monitoring with `eBPF` kernel programming
 
 
