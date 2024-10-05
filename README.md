@@ -13,12 +13,12 @@ Open source @ [`llama-index`](https://github.com/run-llama/llama_index)
 ### Recently ...
 **Rust SWE intern @ Huawei** (Severless WASM Engine)
 - *CPU limiting* of thread-level WASM sandboxes using **cgroups v2**.
-- Sandbox network monitoring with `eBPF` kernel programming
+- Sandbox network monitoring with `eBPF` kernel programming.
 
 
 <br>
 <br>
-I enjoy rock-climbing in my spare time (stereotypical haha) and playing switch games.
+I enjoy rock-climbing and playing Mario in my spare time.
 
 
 ## Contact me
