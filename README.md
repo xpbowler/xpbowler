@@ -17,7 +17,7 @@ Rust SWE intern @ Huawei (Severless WASM Engine)
 
 <br>
 <br>
-I enjoy rock-climbing and playing Mario in my spare time!
+I enjoy trying out new recipes in my spare time!
 
 
 ## Contact me
