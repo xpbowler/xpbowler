@@ -1,7 +1,9 @@
-DL Compiler Intern @ [CentML](https://centml.ai/)
+Software Engineer Intern @ [Modal](https://modal.com)
 
-Incoming @ [Modal](https://modal.com), Amazon
+Incoming DL Compiler Intern @ Amazon
 
+
+<br>
 
 I enjoy trying out new recipes in my spare time!
 
