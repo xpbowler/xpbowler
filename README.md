@@ -5,7 +5,7 @@ Incoming DL Compiler Intern @ Amazon
 
 <br>
 
-I enjoy climbing and brawl stars in my spare time!
+I enjoy climbing and playing brawl stars in my spare time!
 
 
 
