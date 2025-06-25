@@ -1,6 +1,5 @@
 Software Engineer Intern @ [Modal](https://modal.com)
 
-Incoming DL Compiler Intern @ Amazon
 
 
 <br>
