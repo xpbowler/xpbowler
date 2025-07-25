@@ -1,6 +1,4 @@
-Software Engineer Intern @ [Modal](https://modal.com)
-
-
+Software Engineer Intern @ [Modal](https://modal.com), Incoming @ **NVIDIA**
 
 <br>
 
