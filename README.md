@@ -1,4 +1,4 @@
-Software Engineer Intern @ [Modal](https://modal.com), Incoming @ NVIDIA
+Deep Learning Compiler Engineer Intern @ NVIDIA
 
 <br>
 
