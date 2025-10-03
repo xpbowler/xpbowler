@@ -1,8 +1,8 @@
-Deep Learning Compiler Engineer Intern @ NVIDIA
+Intern on Fast Kernels (CUTLASS) @ NVIDIA
 
 <br>
 
-I enjoy playing brawl stars and climbing in my spare time!
+I enjoy playing brawl stars and pokemon in my spare time!
 
 
 
