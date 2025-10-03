@@ -1,4 +1,4 @@
-Intern on Fast Kernels (CUTLASS) @ NVIDIA
+Intern on Fast Kernels ([CUTLASS](https://github.com/NVIDIA/cutlass)) @ NVIDIA
 
 <br>
 
