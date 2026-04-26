@@ -1,6 +1,4 @@
-Member of Technical Staff @ [OpenAI](https://openai.com/)
-
-Previously intern on Fast Kernels ([CUTLASS](https://github.com/NVIDIA/cutlass)) @ NVIDIA
+Intern on Fast Kernels ([CUTLASS](https://github.com/NVIDIA/cutlass)) @ NVIDIA
 
 
 
